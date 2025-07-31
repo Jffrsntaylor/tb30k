@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "warhammer-companion"
+version = "0.1.0"
+description = "Desktop companion app for Horus Heresy 2E and Warhammer 40k 5E"
+requires-python = ">=3.12"
+authors = [{name = "Codex"}]
+license = {text = "MIT"}
+dependencies = [
+    "PySide6",
+    "python-Levenshtein",
+    "pydantic"
+]
+
+[project.scripts]
+companion = "companion.__main__:main"

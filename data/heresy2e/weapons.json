@@ -1,0 +1,4 @@
+[
+  {"name": "Bolter", "range": "24\"", "type": "Rapid Fire", "strength": "4", "ap": "-", "special_rules": []},
+  {"name": "Kheres Assault Cannon", "range": "24\"", "type": "Heavy 6", "strength": "6", "ap": "4", "special_rules": ["Rending"]}
+]
