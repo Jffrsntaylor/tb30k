@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Space Marine Squad",
+    "base_cost": 90,
+    "faction": "Space Marines",
+    "weapons": ["Bolter"],
+    "options": [],
+    "rules": ["And They Shall Know No Fear"]
+  },
+  {
+    "name": "Terminator Squad",
+    "base_cost": 200,
+    "faction": "Space Marines",
+    "weapons": ["Storm Bolter"],
+    "options": [],
+    "rules": ["Rending"]
+  }
+]

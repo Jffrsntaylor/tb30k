@@ -1,0 +1,4 @@
+[
+  {"name": "Bolter", "range": "24\"", "type": "Rapid Fire", "strength": "4", "ap": "5", "special_rules": []},
+  {"name": "Storm Bolter", "range": "24\"", "type": "Assault 2", "strength": "4", "ap": "5", "special_rules": []}
+]
